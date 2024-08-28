@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **React development**
 
+- I'm expertise in ChatGPT 
+
 - 🌱 I’m currently learning **Java backend development, Frontend, Typescript, NextJS**
 
 - 👯 I’m looking to collaborate on **Full stack development projects**
