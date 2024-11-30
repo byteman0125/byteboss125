@@ -35,10 +35,6 @@ If you are interested in working with me or just want to know more be sure to vi
 - ⚒️ **JavaScript** */* **React** */* **Next** */* **Angular** */* **Nuxt** */* **MongoDB** */* **Tailwind** */* **SCSS** */* **Node.Js** */* **Express** */* **OpenAI**
 - 📚 Native **English** speaker
 
-### Education
-- Studying at the **Moscow Technical University of Communications and Informatics** for a bachelor's degree in "**Informatics and Computer Science**"
-- Graduated from **Moscow State College of Electromechanics and Information Technologies** with honors diploma in "**Information systems and programming**"
-
 ### Particitipation
 
 - (**2019** - **2020**) **Front-end developer** at [**PreMiD**](https://premid.app/)
